@@ -1,0 +1,12 @@
+
+.vsconfig
+.vs/
+.idea/
+
+*.log
+
+Binaries/
+Intermediate/
+Saved/
+Android_ASTC/
+DerivedDataCache/
