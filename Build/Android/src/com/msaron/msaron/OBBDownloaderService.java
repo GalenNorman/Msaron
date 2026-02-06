@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.msaron.star;
+package com.msaron.msaron;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.msaron.star.AlarmReceiver.class.getName();
+        return com.msaron.msaron.AlarmReceiver.class.getName();
     }
 }

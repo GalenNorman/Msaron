@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.msaron.star;
+package com.msaron.msaron;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

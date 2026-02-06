@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.msaron.star;
+package com.msaron.msaron;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

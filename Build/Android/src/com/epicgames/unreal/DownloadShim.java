@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.msaron.star.OBBDownloaderService;
-import com.msaron.star.DownloaderActivity;
+import com.msaron.msaron.OBBDownloaderService;
+import com.msaron.msaron.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.msaron.star.OBBData;
+import com.msaron.msaron.OBBData;
 
 
 public class DownloadShim
